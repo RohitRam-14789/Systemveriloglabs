@@ -15,6 +15,8 @@ module up_counter (
 
 endmodule
 
+
+
 //testbench
 // Define an interface to bundle signals
 interface cnt_if (input logic clk);
